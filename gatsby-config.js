@@ -2,8 +2,8 @@ const path = require("path");
 
 module.exports = {
 	siteMetadata: {
-		url: "https://sajeell.github.io/portfolio",
-		siteUrl: "https://sajeell.github.io/portfolio",
+		url: "https://sajeell.github.io",
+		siteUrl: "https://sajeell.github.io",
 		title: "Sajeel Ahmad",
 		titleTemplate: "%s – Making web go brrr.",
 		description:
