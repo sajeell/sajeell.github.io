@@ -1,0 +1,267 @@
+{
+	"language": "English",
+	"header": {
+		"tooltip": "Use %kbd% + underlined character combination to quickly navigate.",
+		"nav": [
+			{
+				"id": "header",
+				"nav": {
+					"num": 0,
+					"char": "H"
+				}
+			},
+			{
+				"id": "hero",
+				"nav": {
+					"num": 0,
+					"char": "H"
+				}
+			},
+			{
+				"id": "about",
+				"label": "About",
+				"nav": {
+					"num": 1,
+					"char": "B"
+				}
+			},
+			{
+				"id": "experience",
+				"label": "Experience",
+				"nav": {
+					"num": 3,
+					"char": "E"
+				}
+			},
+			{
+				"id": "projects",
+				"label": "Projects",
+				"nav": {
+					"num": 3,
+					"char": "J"
+				}
+			},
+			{
+				"id": "contact",
+				"label": "Contact",
+				"nav": {
+					"num": 1,
+					"char": "O"
+				}
+			}
+		],
+		"resume": {
+			"head": "Download my resume",
+			"copy": [
+				"I went and created every possible variant of my resume for you to choose from. Pick one or download the whole pack!"
+			],
+			"variants": [
+				{
+					"head": "ENGLISH",
+					"dark": {
+						"text": "Sajeel Ahmad Resume – Dark",
+						"url": "/resume/Uros-Nesic-Resume-EN-Dark.pdf"
+					},
+					"light": {
+						"text": "Sajeel Ahmad Resume – Light",
+						"url": "/resume/Uros-Nesic-Resume-EN-Light.pdf"
+					},
+					"print": {
+						"text": "Sajeel Ahmad Resume – Print",
+						"url": "/resume/Uros-Nesic-Resume-EN-Print.pdf"
+					}
+				},
+				{
+					"head": "SERBIAN",
+					"dark": {
+						"text": "Sajeel Ahmad Resume – Dark",
+						"url": "/resume/Uros-Nesic-Resume-SR-Dark.pdf"
+					},
+					"light": {
+						"text": "Sajeel Ahmad Resume – Light",
+						"url": "/resume/Uros-Nesic-Resume-SR-Light.pdf"
+					},
+					"print": {
+						"text": "Sajeel Ahmad Resume – Print",
+						"url": "/resume/Uros-Nesic-Resume-SR-Print.pdf"
+					}
+				}
+			],
+			"buttons": {
+				"cta": "Resume",
+				"default": "Let me pick",
+				"pack": "Resume pack"
+			}
+		}
+	},
+	"hero": {
+		"intro": "Hi, my name is",
+		"head": "Sajeel Ahmad",
+		"subhead": "I make web go brrr.",
+		"copy": "A software engineer specializing in full-stack web development with primary focus on the back-end technologies.",
+		"cta": "Get to know me!"
+	},
+	"about": {
+		"intro": "Who the hell is this guy?",
+		"head": "About me.",
+		"copy": [
+			"We might’ve gotten off on the wrong foot, so allow me to properly introduce myself. Hi, my name is Sajeel Ahmad, I’m %months% old and I enjoy building things for the web!",
+			"Fueled by undoubtedly weird sense of humor and lots of coffee (mostly the latter), I spend most of my waking hours looking for interesting project ideas and ways to leave my mark on the ethereal thing that is the Internet.",
+			"Here are a few technologies I’ve been working with lately:"
+		],
+		"tech": [
+			[
+				"JavaScript (ES6+)",
+				"TypeScript",
+				"React (Redux)",
+				"Vue (Vuex)"
+			],
+			[
+				"Node.js",
+				"express.js",
+				"GraphQL",
+				"Mongoose"
+			]
+		]
+	},
+	"experience": {
+		"intro": "Does he have any experience?",
+		"head": "Where I’ve worked.",
+		"labels": {
+			"year": ["year", "years"],
+			"month": ["month", "months"]
+		},
+		"jobs": [
+			{
+				"title": "Frontend Developer",
+				"date": {
+					"from": "2022-02-01T00:00:00.000Z",
+					"to": "Present"
+				},
+				"company": {
+					"name": "Neopix",
+					"url": "https://weareneopix.com/"
+				},
+				"items": [
+					"Coming soon..."
+				]
+			},
+			{
+				"title": "WordPress Developer",
+				"date": {
+					"from": "2020-02-01T00:00:00.000Z",
+					"to": "2022-01-31T00:00:00.000Z"
+				},
+				"company": {
+					"name": "BlueGrid",
+					"url": "https://bluegrid.io/"
+				},
+				"items": [
+					"Custom theme, templates and post types development for a highly trafficked website",
+					"Converting Figma designs to fully responsive, functional and interactive website pages",
+					"SEO and performance optimization using various caching and lazy-loading techniques",
+					"Custom solutions development using React along with TypeScript and 3rd party APIs",
+					"Production of clean, easily-maintainable and scaleable JavaScript, CSS and php code"
+				]
+			},
+			{
+				"title": "WordPress Developer",
+				"date": {
+					"from": "2018-09-01T00:00:00.000Z",
+					"to": "2020-01-31T00:00:00.000Z"
+				},
+				"company": {
+					"name": "Ivapix",
+					"url": "https://ivapix.rs/"
+				},
+				"items": [
+					"Designed, developed and shipped beautiful and modern-looking websites for clients",
+					"Website hosting maintenance through cPanel and maintenance of the website itself",
+					"Tracked analytics and SEO performance using Google Search Console and Analytics"
+				]
+			}
+		]
+	},
+	"projects": {
+		"intro": "Has he got anything to show?",
+		"head": "My latest creations.",
+		"copy": "Projects are unavailable since Heroku got rid of the free plans, and it's a wide-known fact that Serbs are cheap and I'm no different.",
+		"projects": [
+			{
+				"head": "Full-stack project",
+				"title": "Boleskine",
+				"desc": "Note taking and expense tracking application with a handy overview on weekly and monthly income/expense totals accompanied by an analytics graph that provides a more through insight. Authenticate with a simple email/password combination or using social media SSO.",
+				"stack": [
+					[
+						"React",
+						"TypeScript",
+						"Redux",
+						"Router",
+						"Formik",
+						"TailwindCSS"
+					],
+					[
+						"Express",
+						"Apollo",
+						"Passport",
+						"GraphQL",
+						"MongoDB"
+					]
+				],
+				"links": [
+					{
+						"type": "github",
+						"link": "https://github.com/unesic/boleskine"
+					},
+					{
+						"type": "external-link",
+						"link": "https://boleskine.unesic.io/"
+					}
+				],
+				"images": {
+					"light": "/images/boleskine-home-light.png",
+					"dark": "/images/boleskine-home-dark.png"
+				}
+			},
+			{
+				"head": "Full-stack project",
+				"title": "Trello Clone",
+				"desc": "Popular kanban-style project management tool’s clone. User has the ability to create, preview, update, pin, personalize and delete boards. Each board has rearrangable lists and items along with tags, checklists, comments and much more.",
+				"stack": [
+					[
+						"React",
+						"Router",
+						"Styled Components"
+					],
+					[
+						"Socket.io",
+						"Feathers",
+						"MongoDB"
+					]
+				],
+				"links": [
+					{
+						"type": "github",
+						"link": "https://github.com/unesic/trello-clone"
+					},
+					{
+						"type": "external-link",
+						"link": "https://trello.unesic.io/"
+					}
+				],
+				"images": {
+					"light": "/images/trello-home-light.png",
+					"dark": "/images/trello-home-dark.png"
+				}
+			}
+		]
+	},
+	"contact": {
+		"intro": "He's okay I guess...",
+		"head": "Get in touch.",
+		"copy": [
+			"Whether you have a question, looking to hire or you have a project idea for the next billion dollar unicorn that will take us to the moon. Stop by and say hi and I’ll do my best not to ghost you or leave you hanging for too long!"
+		],
+		"cta": "Email me"
+	}
+}
