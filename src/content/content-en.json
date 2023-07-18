@@ -105,23 +105,13 @@
 		"intro": "Who the hell is this guy?",
 		"head": "About me.",
 		"copy": [
-			"We might’ve gotten off on the wrong foot, so allow me to properly introduce myself. Hi, my name is Sajeel Ahmad, I’m %months% old and I enjoy building things for the web!",
+			"We might’ve gotten off on the wrong foot, so allow me to properly introduce myself. Hi, my name is Sajeel Ahmad, I'm 24 years old and I enjoy building things for the web!",
 			"Fueled by undoubtedly weird sense of humor and lots of coffee (mostly the latter), I spend most of my waking hours looking for interesting project ideas and ways to leave my mark on the ethereal thing that is the Internet.",
 			"Here are a few technologies I’ve been working with lately:"
 		],
 		"tech": [
-			[
-				"JavaScript (ES6+)",
-				"TypeScript",
-				"React (Redux)",
-				"Vue (Vuex)"
-			],
-			[
-				"Node.js",
-				"express.js",
-				"GraphQL",
-				"Mongoose"
-			]
+			["JavaScript (ES6+)", "TypeScript", "React (Redux)", "Vue (Vuex)"],
+			["Node.js", "express.js", "GraphQL", "Mongoose"]
 		]
 	},
 	"experience": {
@@ -133,51 +123,73 @@
 		},
 		"jobs": [
 			{
-				"title": "Frontend Developer",
+				"title": "Software Engineer (Full-Stack)",
 				"date": {
-					"from": "2022-02-01T00:00:00.000Z",
+					"from": "2022-08-01T00:00:00.000Z",
 					"to": "Present"
 				},
 				"company": {
-					"name": "Neopix",
-					"url": "https://weareneopix.com/"
+					"name": "7 Hills Neo",
+					"url": "https://7hn.de/"
 				},
 				"items": [
-					"Coming soon..."
+					"Developed various efficient booking systems, ensuring seamless functionality and user-friendly interfaces",
+					"https://mietoase.de",
+					"https://onetournament.com"
 				]
 			},
 			{
-				"title": "WordPress Developer",
+				"title": "Frontend Developer",
 				"date": {
-					"from": "2020-02-01T00:00:00.000Z",
-					"to": "2022-01-31T00:00:00.000Z"
+					"from": "2022-04-11T00:00:00.000Z",
+					"to": "2022-08-01T00:00:00.000Z"
 				},
 				"company": {
-					"name": "BlueGrid",
-					"url": "https://bluegrid.io/"
+					"name": "Qisstpay Inc.",
+					"url": "https://qisstpay.com"
 				},
 				"items": [
 					"Custom theme, templates and post types development for a highly trafficked website",
 					"Converting Figma designs to fully responsive, functional and interactive website pages",
 					"SEO and performance optimization using various caching and lazy-loading techniques",
 					"Custom solutions development using React along with TypeScript and 3rd party APIs",
-					"Production of clean, easily-maintainable and scaleable JavaScript, CSS and php code"
+					"Production of clean, easily-maintainable and scaleable React.js code",
+					"Developed https://ms.merchantportal.qisstpay.com"
 				]
 			},
 			{
-				"title": "WordPress Developer",
+				"title": "Full Stack Developer",
 				"date": {
-					"from": "2018-09-01T00:00:00.000Z",
-					"to": "2020-01-31T00:00:00.000Z"
+					"from": "2021-10-27T00:00:00.000Z",
+					"to": "2022-04-25T00:00:00.000Z"
 				},
 				"company": {
-					"name": "Ivapix",
-					"url": "https://ivapix.rs/"
+					"name": "Sporforya",
+					"url": "https://sporforya.com"
 				},
 				"items": [
-					"Designed, developed and shipped beautiful and modern-looking websites for clients",
-					"Website hosting maintenance through cPanel and maintenance of the website itself",
-					"Tracked analytics and SEO performance using Google Search Console and Analytics"
+					"Converting Figma designs to fully responsive, functional and interactive website pages",
+					"SEO and performance optimization using various caching and lazy-loading techniques",
+					"Integrated Stripe payment gateway for subscription-based services",
+					"Production of clean, easily-maintainable and scaleable React.js code",
+					"Developed https://sporforya.com"
+				]
+			},
+			{
+				"title": "Full Stack Developer",
+				"date": {
+					"from": "2020-08-01T00:00:00.000Z",
+					"to": "2021-03-01T00:00:00.000Z"
+				},
+				"company": {
+					"name": "Edtechworx",
+					"url": "https://participant.edtechworx.com/"
+				},
+				"items": [
+					"Converting Figma designs to fully responsive, functional and interactive website pages",
+					"Managed AWS EC2 instances and S3 buckets",
+					"Fixed bugs in mobile app using React Native",
+					"Developed https://participant.edtechworx.com/ and https://supervisor.edtechworx.com/"
 				]
 			}
 		]
@@ -192,21 +204,8 @@
 				"title": "Boleskine",
 				"desc": "Note taking and expense tracking application with a handy overview on weekly and monthly income/expense totals accompanied by an analytics graph that provides a more through insight. Authenticate with a simple email/password combination or using social media SSO.",
 				"stack": [
-					[
-						"React",
-						"TypeScript",
-						"Redux",
-						"Router",
-						"Formik",
-						"TailwindCSS"
-					],
-					[
-						"Express",
-						"Apollo",
-						"Passport",
-						"GraphQL",
-						"MongoDB"
-					]
+					["React", "TypeScript", "Redux", "Router", "Formik", "TailwindCSS"],
+					["Express", "Apollo", "Passport", "GraphQL", "MongoDB"]
 				],
 				"links": [
 					{
@@ -228,16 +227,8 @@
 				"title": "Trello Clone",
 				"desc": "Popular kanban-style project management tool’s clone. User has the ability to create, preview, update, pin, personalize and delete boards. Each board has rearrangable lists and items along with tags, checklists, comments and much more.",
 				"stack": [
-					[
-						"React",
-						"Router",
-						"Styled Components"
-					],
-					[
-						"Socket.io",
-						"Feathers",
-						"MongoDB"
-					]
+					["React", "Router", "Styled Components"],
+					["Socket.io", "Feathers", "MongoDB"]
 				],
 				"links": [
 					{
