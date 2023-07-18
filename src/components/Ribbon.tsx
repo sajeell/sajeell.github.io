@@ -30,7 +30,7 @@ export const Ribbon: React.FC<RibbonProps> = () => {
 			<Stack direction={["row", "row", "row", "row", "row", "column"]}>
 				<Link
 					variant="icon"
-					href="https://github.com/unesic/"
+					href="https://github.com/sajeell"
 					isExternal
 					aria-label="Github"
 				>
@@ -38,7 +38,7 @@ export const Ribbon: React.FC<RibbonProps> = () => {
 				</Link>
 				<Link
 					variant="icon"
-					href="https://www.linkedin.com/in/unesic/"
+					href="https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/"
 					isExternal
 					aria-label="LinkedIn"
 				>
@@ -46,19 +46,11 @@ export const Ribbon: React.FC<RibbonProps> = () => {
 				</Link>
 				<Link
 					variant="icon"
-					href="mailto:hire@unesic.io"
+					href="mailto:sajeel.ahmed@live.com"
 					isExternal
 					aria-label="E-mail"
 				>
 					<Icon icon="feather:mail" />
-				</Link>
-				<Link
-					variant="icon"
-					href={`${isMacOS ? "facetime" : "tel"}:+38162766433`}
-					isExternal
-					aria-label="Phone call"
-				>
-					<Icon icon="feather:phone" />
 				</Link>
 			</Stack>
 

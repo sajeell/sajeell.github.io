@@ -32,7 +32,7 @@ export const Contact = React.forwardRef<HTMLDivElement, ContactProps>(
 							{t}
 						</Text>
 					))}
-					<Button mt="12" as="a" href="mailto:info@unesic.io">
+					<Button mt="12" as="a" href="mailto:sajeel.ahmed@live.com">
 						{_t.cta}
 					</Button>
 				</Box>
