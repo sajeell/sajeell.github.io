@@ -135,7 +135,7 @@
 				"items": [
 					"Developed various efficient booking systems, ensuring seamless functionality and user-friendly interfaces",
 					"https://mietoase.de",
-					"https://onetournament.com"
+					"https://1tournament.com"
 				]
 			},
 			{
@@ -197,52 +197,73 @@
 	"projects": {
 		"intro": "Has he got anything to show?",
 		"head": "My latest creations.",
-		"copy": "Projects are unavailable since Heroku got rid of the free plans, and it's a wide-known fact that Serbs are cheap and I'm no different.",
 		"projects": [
 			{
 				"head": "Full-stack project",
-				"title": "Boleskine",
-				"desc": "Note taking and expense tracking application with a handy overview on weekly and monthly income/expense totals accompanied by an analytics graph that provides a more through insight. Authenticate with a simple email/password combination or using social media SSO.",
+				"title": "One Tournament",
+				"desc": "Booking platform for sports tournaments. Users can create and manage tournaments, teams and players. Each tournament has a dedicated page with all the information, statistics and live updates",
 				"stack": [
-					["React", "TypeScript", "Redux", "Router", "Formik", "TailwindCSS"],
-					["Express", "Apollo", "Passport", "GraphQL", "MongoDB"]
+					["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
+					["Python", "Django", "REST API", "PostgreSQL"]
 				],
 				"links": [
 					{
-						"type": "github",
-						"link": "https://github.com/unesic/boleskine"
+						"type": "",
+						"link": ""
 					},
 					{
 						"type": "external-link",
-						"link": "https://boleskine.unesic.io/"
+						"link": "https://1tournament.com/"
 					}
 				],
 				"images": {
-					"light": "/images/boleskine-home-light.png",
-					"dark": "/images/boleskine-home-dark.png"
+					"light": "/images/1tournament.png",
+					"dark": "/images/1tournament.png"
 				}
 			},
 			{
 				"head": "Full-stack project",
-				"title": "Trello Clone",
-				"desc": "Popular kanban-style project management tool’s clone. User has the ability to create, preview, update, pin, personalize and delete boards. Each board has rearrangable lists and items along with tags, checklists, comments and much more.",
+				"title": "Mietoase",
+				"desc": "Booking platform for renting rooms, construction equipment, and caravans",
 				"stack": [
-					["React", "Router", "Styled Components"],
-					["Socket.io", "Feathers", "MongoDB"]
+					["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
+					["Python", "Django", "REST API", "PostgreSQL"]
 				],
 				"links": [
 					{
-						"type": "github",
-						"link": "https://github.com/unesic/trello-clone"
+						"type": "external-link",
+						"link": "https://mietoase.de/"
 					},
 					{
-						"type": "external-link",
-						"link": "https://trello.unesic.io/"
+						"type": "",
+						"link": ""
 					}
 				],
 				"images": {
-					"light": "/images/trello-home-light.png",
-					"dark": "/images/trello-home-dark.png"
+					"light": "/images/mietoase.png",
+					"dark": "/images/mietoase.png"
+				}
+			},
+			{
+				"head": "Frontend project",
+				"title": "Qisstpay Merchant Portal",
+				"desc": "Merchant portal for managing transactions, invoices, and subscriptions",
+				"stack": [
+					["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"]
+				],
+				"links": [
+					{
+						"type": "external-link",
+						"link": "https://ms.merchantportal.qisstpay.com"
+					},
+					{
+						"type": "",
+						"link": ""
+					}
+				],
+				"images": {
+					"light": "/images/merchantportal.png",
+					"dark": "/images/merchantportal.png"
 				}
 			}
 		]
