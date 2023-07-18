@@ -61,36 +61,11 @@
 					"dark": {
 						"text": "Sajeel Ahmad Resume – Dark",
 						"url": "/resume/Sajeel-Ahmad-Resume-EN.pdf"
-					},
-					"light": {
-						"text": "Sajeel Ahmad Resume – Light",
-						"url": "/resume/Sajeel-Ahmad-Resume-EN.pdf"
-					},
-					"print": {
-						"text": "Sajeel Ahmad Resume – Print",
-						"url": "/resume/Sajeel-Ahmad-Resume-EN.pdf"
-					}
-				},
-				{
-					"head": "SERBIAN",
-					"dark": {
-						"text": "Sajeel Ahmad Resume – Dark",
-						"url": "/resume/Uros-Nesic-Resume-SR-Dark.pdf"
-					},
-					"light": {
-						"text": "Sajeel Ahmad Resume – Light",
-						"url": "/resume/Uros-Nesic-Resume-SR-Light.pdf"
-					},
-					"print": {
-						"text": "Sajeel Ahmad Resume – Print",
-						"url": "/resume/Uros-Nesic-Resume-SR-Print.pdf"
 					}
 				}
 			],
 			"buttons": {
-				"cta": "Resume",
-				"default": "Let me pick",
-				"pack": "Resume pack"
+				"cta": "Resume"
 			}
 		}
 	},
@@ -110,8 +85,27 @@
 			"Here are a few technologies I’ve been working with lately:"
 		],
 		"tech": [
-			["JavaScript (ES6+)", "TypeScript", "React (Redux)", "Vue (Vuex)"],
-			["Node.js", "express.js", "GraphQL", "Mongoose"]
+			[
+				"HTML",
+				"CSS",
+				"Tailwind CSS",
+				"Bootstrap",
+				"JavaScript (ES6+)",
+				"TypeScript",
+				"React (Redux)",
+				"React Native"
+			],
+			[
+				"Node.js",
+				"Nest.js",
+				"GraphQL",
+				"REST API",
+				"Python",
+				"Django",
+				"FAST API"
+			],
+			["PostgreSQL", "MongoDB", "Redis", "AWS", "Docker", "Git", "Linux"],
+			["Figma", "Adobe XD"]
 		]
 	},
 	"experience": {
@@ -200,6 +194,29 @@
 		"projects": [
 			{
 				"head": "Full-stack project",
+				"title": "Sporforya",
+				"desc": "Management platform for renting out domestic sports facilities",
+				"stack": [
+					["HTML", "CSS", "JavaScript", "React.js", "Material UI"],
+					["Nest.js", "REST API", "MongoDB"]
+				],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://sporforya.com/"
+					}
+				],
+				"images": {
+					"light": "/images/sporforya.png",
+					"dark": "/images/sporforya.png"
+				}
+			},
+			{
+				"head": "Full-stack project",
 				"title": "One Tournament",
 				"desc": "Booking platform for sports tournaments. Users can create and manage tournaments, teams and players. Each tournament has a dedicated page with all the information, statistics and live updates",
 				"stack": [
@@ -248,9 +265,7 @@
 				"head": "Frontend project",
 				"title": "Qisstpay Merchant Portal",
 				"desc": "Merchant portal for managing transactions, invoices, and subscriptions",
-				"stack": [
-					["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"]
-				],
+				"stack": [["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"]],
 				"links": [
 					{
 						"type": "external-link",
@@ -264,6 +279,52 @@
 				"images": {
 					"light": "/images/merchantportal.png",
 					"dark": "/images/merchantportal.png"
+				}
+			},
+			{
+				"head": "Full-stack project",
+				"title": "Edtechworx Participant Portal",
+				"desc": "Portal for managing Edtechworx participants and their progress through the program",
+				"stack": [
+					["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"],
+					["Node.js", "Express.js", "REST API", "PostgreSQL"]
+				],
+				"links": [
+					{
+						"type": "external-link",
+						"link": "https://participant.edtechworx.com"
+					},
+					{
+						"type": "",
+						"link": ""
+					}
+				],
+				"images": {
+					"light": "/images/participant.png",
+					"dark": "/images/participant.png"
+				}
+			},
+			{
+				"head": "Full-stack project",
+				"title": "Edtechworx Supervisor Portal",
+				"desc": "Portal for managing Edtechworx supervisors and their progress through the program",
+				"stack": [
+					["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"],
+					["Node.js", "Express.js", "REST API", "PostgreSQL"]
+				],
+				"links": [
+					{
+						"type": "external-link",
+						"link": "https://supervisor.edtechworx.com"
+					},
+					{
+						"type": "",
+						"link": ""
+					}
+				],
+				"images": {
+					"light": "/images/supervisor.png",
+					"dark": "/images/supervisor.png"
 				}
 			}
 		]

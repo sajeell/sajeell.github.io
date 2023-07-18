@@ -31,12 +31,6 @@ export const PopupBody: React.FC = () => {
 					<Link href={v.dark.url} isExternal variant="simple-link">
 						{v.dark.text} <ExternalLink />
 					</Link>
-					<Link href={v.light.url} isExternal variant="simple-link">
-						{v.light.text} <ExternalLink />
-					</Link>
-					<Link href={v.print.url} isExternal variant="simple-link">
-						{v.print.text} <ExternalLink />
-					</Link>
 				</Box>
 			))}
 		</PopoverBody>
