@@ -90,10 +90,10 @@
 				"CSS",
 				"Tailwind CSS",
 				"Bootstrap",
-				"JavaScript (ES6+)",
+				"JavaScript",
 				"TypeScript",
-				"React (Redux)",
-				"React Native"
+				"React.js",
+				"Next.js"
 			],
 			[
 				"Node.js",
@@ -104,8 +104,7 @@
 				"Django",
 				"FAST API"
 			],
-			["PostgreSQL", "MongoDB", "Redis", "AWS", "Docker", "Git", "Linux"],
-			["Figma", "Adobe XD"]
+			["PostgreSQL", "MongoDB", "Redis", "AWS", "Docker", "Git", "Linux"]
 		]
 	},
 	"experience": {
