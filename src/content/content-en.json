@@ -192,6 +192,28 @@
 		"head": "My latest creations.",
 		"projects": [
 			{
+				"head": "VS Code Extension",
+				"title": "Django Template Syntax Highlighter",
+				"desc": "A VS Code extension that adds syntax highlighting to Django template files (.html, .tpl) in VS Code. It also adds Django template snippets.",
+				"stack": [
+					["JSON", "TypeScript", "JavaScript"]
+				],
+				"links": [
+					{
+						"type": "github",
+						"link": "https://github.com/sajeell/djangotpl-highlighter"
+					},
+					{
+						"type": "external-link",
+						"link": "https://marketplace.visualstudio.com/items?itemName=SajeelAhmad.djangotpl-highlighter"
+					}
+				],
+				"images": {
+					"light": "/images/djangotpl.png",
+					"dark": "/images/djangotpl.png"
+				}
+			},
+			{
 				"head": "Full-stack project",
 				"title": "Sporforya",
 				"desc": "Management platform for renting out domestic sports facilities",
