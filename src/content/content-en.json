@@ -237,52 +237,6 @@
 				}
 			},
 			{
-				"head": "Full-stack project",
-				"title": "One Tournament",
-				"desc": "Booking platform for sports tournaments. Users can create and manage tournaments, teams and players. Each tournament has a dedicated page with all the information, statistics and live updates",
-				"stack": [
-					["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
-					["Python", "Django", "REST API", "PostgreSQL"]
-				],
-				"links": [
-					{
-						"type": "",
-						"link": ""
-					},
-					{
-						"type": "external-link",
-						"link": "https://1tournament.com/"
-					}
-				],
-				"images": {
-					"light": "/images/1tournament.png",
-					"dark": "/images/1tournament.png"
-				}
-			},
-			{
-				"head": "Full-stack project",
-				"title": "Mietoase",
-				"desc": "Booking platform for renting rooms, construction equipment, and caravans",
-				"stack": [
-					["HTML", "CSS", "JavaScript", "Jquery", "Bootstrap"],
-					["Python", "Django", "REST API", "PostgreSQL"]
-				],
-				"links": [
-					{
-						"type": "external-link",
-						"link": "https://mietoase.de/"
-					},
-					{
-						"type": "",
-						"link": ""
-					}
-				],
-				"images": {
-					"light": "/images/mietoase.png",
-					"dark": "/images/mietoase.png"
-				}
-			},
-			{
 				"head": "Frontend project",
 				"title": "Qisstpay Merchant Portal",
 				"desc": "Merchant portal for managing transactions, invoices, and subscriptions",
