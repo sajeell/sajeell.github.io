@@ -28,7 +28,7 @@ export const PopupFooter: React.FC = () => {
 		const lang = language.toUpperCase();
 		const modeSplit = colorMode.split("");
 		const mode = [modeSplit[0].toUpperCase(), ...modeSplit.splice(1)].join("");
-		return `/resume/Uros-Nesic-Resume-${lang}-${mode}.pdf`;
+		return `/resume/Sajeel-Ahmad-Resume-EN.pdf`;
 	}, [language, colorMode]);
 
 	return (
