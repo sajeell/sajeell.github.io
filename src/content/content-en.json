@@ -192,6 +192,24 @@
 		"head": "My latest creations.",
 		"projects": [
 			{
+				"head": "Noshprompt",
+				"title": "Noshprompt - Chat GPT Prompts",
+				"desc": "Web app where you can write prompts for GPT-3 to generate responses to. You can also read and copy other people's prompts.",
+				"stack": [
+					["Next.js", "JavaScript", "Express.js", "REST API", "PostgreSQL"]
+				],
+				"links": [
+					{
+						"type": "external-link",
+						"link": "https://noshprompt.com"
+					}
+				],
+				"images": {
+					"light": "/images/noshprompt.png",
+					"dark": "/images/noshprompt.png"
+				}
+			},
+			{
 				"head": "VS Code Extension",
 				"title": "Django Template Syntax Highlighter",
 				"desc": "A VS Code extension that adds syntax highlighting to Django template files (.html, .tpl) in VS Code. It also adds Django template snippets.",
