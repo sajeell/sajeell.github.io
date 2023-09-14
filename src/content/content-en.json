@@ -200,6 +200,10 @@
 				],
 				"links": [
 					{
+						"type": "",
+						"link": ""
+					},
+					{
 						"type": "external-link",
 						"link": "https://noshprompt.com"
 					}
