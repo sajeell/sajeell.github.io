@@ -259,26 +259,6 @@
 				}
 			},
 			{
-				"head": "Frontend project",
-				"title": "Qisstpay Merchant Portal",
-				"desc": "Merchant portal for managing transactions, invoices, and subscriptions",
-				"stack": [["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"]],
-				"links": [
-					{
-						"type": "external-link",
-						"link": "https://ms.merchantportal.qisstpay.com"
-					},
-					{
-						"type": "",
-						"link": ""
-					}
-				],
-				"images": {
-					"light": "/images/merchantportal.png",
-					"dark": "/images/merchantportal.png"
-				}
-			},
-			{
 				"head": "Full-stack project",
 				"title": "Edtechworx Participant Portal",
 				"desc": "Portal for managing Edtechworx participants and their progress through the program",
