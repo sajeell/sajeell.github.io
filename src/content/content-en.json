@@ -192,6 +192,66 @@
 		"head": "My latest creations.",
 		"projects": [
 			{
+				"head": "WearWings",
+				"title": "WearWings - Apparel",
+				"desc": "An ECommerce website for selling apparel",
+				"stack": [["JavaScript"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://wearwings.pk"
+					}
+				],
+				"images": {
+					"light": "/images/wearwings.png",
+					"dark": "/images/wearwings.png"
+				}
+			},
+			{
+				"head": "InsproKids",
+				"title": "InsproKids - A platform for kids to learn and grow",
+				"desc": "A web app for kids to learn and grow. It has a lot of features like quizzes, games, and more.",
+				"stack": [["JavaScript"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://insprokids.com"
+					}
+				],
+				"images": {
+					"light": "/images/insprokids.png",
+					"dark": "/images/insprokids.png"
+				}
+			},
+			{
+				"head": "EasyGen",
+				"title": "EasyGen - LinkedIn post generator",
+				"desc": "A web app and a chrome extension where you can generate engaging LinkedIn posts using AI",
+				"stack": [["Next.js", "JavaScript"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://easygen.io"
+					}
+				],
+				"images": {
+					"light": "/images/easygen.png",
+					"dark": "/images/easygen.png"
+				}
+			},
+			{
 				"head": "Noshprompt",
 				"title": "Noshprompt - Chat GPT Prompts",
 				"desc": "Web app where you can write prompts for GPT-3 to generate responses to. You can also read and copy other people's prompts.",
@@ -217,9 +277,7 @@
 				"head": "VS Code Extension",
 				"title": "Django Template Syntax Highlighter",
 				"desc": "A VS Code extension that adds syntax highlighting to Django template files (.html, .tpl) in VS Code. It also adds Django template snippets.",
-				"stack": [
-					["JSON", "TypeScript", "JavaScript"]
-				],
+				"stack": [["JSON", "TypeScript", "JavaScript"]],
 				"links": [
 					{
 						"type": "github",
@@ -335,3 +393,4 @@
 		"cta": "Email me"
 	}
 }
+
