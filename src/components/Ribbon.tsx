@@ -38,7 +38,7 @@ export const Ribbon: React.FC<RibbonProps> = () => {
 				</Link>
 				<Link
 					variant="icon"
-					href="https://www.linkedin.com/in/sajeel-ahmad-hassan-072561182/"
+					href="http://linkedin.com/in/sajeell/"
 					isExternal
 					aria-label="LinkedIn"
 				>
