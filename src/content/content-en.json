@@ -381,6 +381,26 @@
 					"light": "/images/supervisor.png",
 					"dark": "/images/supervisor.png"
 				}
+			},
+			{
+				"head": "PassGen",
+				"title": "PassGen - Password Generator",
+				"desc": "An application for generating strong passwords",
+				"stack": [["JavaScript", "React.js"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://pass-gen-react.netlify.app/"
+					}
+				],
+				"images": {
+					"light": "/images/passgen.png",
+					"dark": "/images/passgen.png"
+				}
 			}
 		]
 	},
