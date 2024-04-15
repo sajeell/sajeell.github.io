@@ -53,7 +53,7 @@
 		"resume": {
 			"head": "Download my resume",
 			"copy": [
-				"I went and created every possible variant of my resume for you to choose from. Pick one or download the whole pack!"
+				"Want to know more about my work experience, education, skills and projects? Download my resume and get all the details in one place."
 			],
 			"variants": [
 				{
@@ -85,26 +85,8 @@
 			"Here are a few technologies I’ve been working with lately:"
 		],
 		"tech": [
-			[
-				"HTML",
-				"CSS",
-				"Tailwind CSS",
-				"Bootstrap",
-				"JavaScript",
-				"TypeScript",
-				"React.js",
-				"Next.js"
-			],
-			[
-				"Node.js",
-				"Nest.js",
-				"GraphQL",
-				"REST API",
-				"Python",
-				"Django",
-				"FAST API"
-			],
-			["PostgreSQL", "MongoDB", "Redis", "AWS", "Docker", "Git", "Linux"]
+			["HTML/CSS/SCSS", "JavaScript/TypeScript", "Python", "ASP. NET"],
+			["SQL/NoSQL", "REST/GraphQL", "...."]
 		]
 	},
 	"experience": {
@@ -128,7 +110,8 @@
 				"items": [
 					"Developed various efficient booking systems, ensuring seamless functionality and user-friendly interfaces",
 					"https://mietoase.de",
-					"https://1tournament.com"
+					"https://1tournament.com",
+					"https://aobricks.de"
 				]
 			},
 			{
@@ -191,6 +174,66 @@
 		"intro": "Has he got anything to show?",
 		"head": "My latest creations.",
 		"projects": [
+			{
+				"head": "XlimPack",
+				"title": "XlimPack - Customised Packaging Solutions",
+				"desc": "A web app for customised packaging solutions",
+				"stack": [["WordPress", "Elementor", "Woocommerce", "WpForms"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://xlimpack.com"
+					}
+				],
+				"images": {
+					"light": "/images/xlimpack.png",
+					"dark": "/images/xlimpack.png"
+				}
+			},
+			{
+				"head": "1Tournament",
+				"title": "1Tournament - Sports Booking System",
+				"desc": "While working at 7HN, I developed a booking system for 1Tournament, a company that organizes sports tournaments.",
+				"stack": [["Django", "Python"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://1tournament.com"
+					}
+				],
+				"images": {
+					"light": "/images/1tournament.png",
+					"dark": "/images/1tournament.png"
+				}
+			},
+			{
+				"head": "Mietoase",
+				"title": "Mietoase - Booking System",
+				"desc": "While working at 7HN, I developed a booking system for Mietoase, a company that rents out holiday homes.",
+				"stack": [["Django", "Python"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://mietoase.de"
+					}
+				],
+				"images": {
+					"light": "/images/mietoase.png",
+					"dark": "/images/mietoase.png"
+				}
+			},
 			{
 				"head": "WearWings",
 				"title": "WearWings - Apparel",
