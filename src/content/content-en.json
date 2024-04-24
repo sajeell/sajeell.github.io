@@ -86,6 +86,7 @@
 		],
 		"tech": [
 			["HTML/CSS/SCSS", "JavaScript/TypeScript", "Python", "ASP. NET"],
+			["ASP .NET Core", "C#"],
 			["SQL/NoSQL", "REST/GraphQL", "...."]
 		]
 	},
