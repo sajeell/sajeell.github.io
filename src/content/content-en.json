@@ -176,6 +176,26 @@
 		"head": "My latest creations.",
 		"projects": [
 			{
+				"head": "AYZ Design",
+				"title": "AYZ Design - Digital Invitation For Your Wedding Guests",
+				"desc": "A multi-lingual web app for creating digital invitations for your wedding guests",
+				"stack": [["Next.js", "Express.js", "i18n"]],
+				"links": [
+					{
+						"type": "",
+						"link": ""
+					},
+					{
+						"type": "external-link",
+						"link": "https://ayzdesign.site"
+					}
+				],
+				"images": {
+					"light": "/images/ayzdesign.png",
+					"dark": "/images/ayzdesign.png"
+				}
+			},
+			{
 				"head": "XlimPack",
 				"title": "XlimPack - Customised Packaging Solutions",
 				"desc": "A web app for customised packaging solutions",
